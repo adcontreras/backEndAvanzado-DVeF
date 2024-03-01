@@ -1,0 +1,5 @@
+adcontrerasmm
+0q6x1rtyLrpXYimI
+
+mongodb+srv://adcontrerasmm:0q6x1rtyLrpXYimI@cluster0.oerrtq6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
