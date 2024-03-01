@@ -1,4 +1,4 @@
 import mongoose from "mongoose";
 
-mongoose.connect(DB_URI)
+mongoose.connect(process.env.DB_URI);
 
