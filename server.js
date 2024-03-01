@@ -4,6 +4,10 @@
 
 // 1. importar Express
 import express from 'express';
+import {connect} from './config.js'
+
+
+connect();
 
 //2.crear app con xpress, 
 const api = express();
